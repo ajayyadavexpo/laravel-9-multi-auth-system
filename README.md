@@ -6,12 +6,12 @@
 
 
 ## Login page
-![alt text](https://github.com/AjayYadavAi/laravel-9-multi-auth-system/blob/master/login.png?raw=true)
+![alt text](https://github.com/AjayYadavAi/laravel-9-multi-auth-system/blob/main/login.png?raw=true)
 
 
 ## Register page
-![alt text](https://github.com/AjayYadavAi/laravel-9-multi-auth-system/blob/master/register.png?raw=true)
+![alt text](https://github.com/AjayYadavAi/laravel-9-multi-auth-system/blob/main/register.png?raw=true)
 
 
 ## Dashboard page
-![alt text](https://github.com/AjayYadavAi/laravel-9-multi-auth-system/blob/master/dashboard.png?raw=true)
+![alt text](https://github.com/AjayYadavAi/laravel-9-multi-auth-system/blob/main/dashboard.png?raw=true)
